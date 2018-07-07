@@ -1,5 +1,4 @@
 # getting_cleaning_data_using_R
-# Assignment
 
 # Input
 
